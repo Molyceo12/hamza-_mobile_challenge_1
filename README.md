@@ -1,16 +1,25 @@
-# mobile_template_pages
+# Mobile Wallet App
 
-A new Flutter project.
+A Flutter UI challenge featuring a modern wallet dashboard and statistics screen.
+
+## Features
+- **Wallet Dashboard**: Balance overview, card stack, saving plans, transaction history
+- **Statistics**: Earnings chart, payment analytics, period filters
+- **Dark Theme**: Purple-based color scheme (#0F0D1E)
+- **Custom UI**: Gradient cards, bottom navigation, transparent effects
+
+## Tech
+- Flutter + Ionicons
+- Custom widgets
+- Responsive design
 
 ## Getting Started
+```bash
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Notes
+Core UI implemented. Final adjustments can be made when time permits.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---

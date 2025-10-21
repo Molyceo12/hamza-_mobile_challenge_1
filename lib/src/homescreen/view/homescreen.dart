@@ -140,7 +140,13 @@ class WalletDashboardScreen extends StatelessWidget {
                         borderRadius: BorderRadius.circular(25),
                       ),
                       child: IconButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => const StatisticsScreen()),
+                          );
+                        },
                         icon: const Icon(Icons.add,
                             color: Colors.white, size: 24),
                         padding: EdgeInsets.zero,
