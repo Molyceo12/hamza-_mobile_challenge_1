@@ -8,6 +8,10 @@ A Flutter UI challenge featuring a modern wallet dashboard and statistics screen
 - **Dark Theme**: Purple-based color scheme (#0F0D1E)
 - **Custom UI**: Gradient cards, bottom navigation, transparent effects
 
+## Navigation
+- **+ Button**: Tap the big + button to navigate to Statistics page
+- **Back Button**: Use back button to return to Wallet Dashboard
+
 ## Tech
 - Flutter + Ionicons
 - Custom widgets
